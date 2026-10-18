@@ -15,11 +15,11 @@ Praktikum **Materi 5: Navigation, Lifecycle & ViewModel**.
 
 ## Screenshot
 
-| Beranda | Profil (Edit) | Kontak |
-|---|---|---|
-| ![Beranda](docs/screenshots/01-beranda.jpeg | ![Profil](docs/screenshots/02-profil-edit.jpeg) | ![Kontak](docs/screenshots/03-kontak.jpeg) |
+| Beranda                                      | Profil (Edit) | Kontak |
+|----------------------------------------------|---|---|
+| ![Beranda](docs/screenshots/01-beranda.jpeg) | ![Profil](docs/screenshots/02-profil-edit.jpeg) | ![Kontak](docs/screenshots/03-kontak.jpeg) |
 
-## Fitur
+## Fiturx
 
 - **4 layar** dengan route jelas: Beranda (`/`), Profil (`/profil`), Detail Mata Kuliah (`/mata-kuliah`), Kontak (`/kontak`).
 - **ViewModel** (`ChangeNotifier` + `provider`) menyimpan nama, program studi, foto, dan logika validasi.
